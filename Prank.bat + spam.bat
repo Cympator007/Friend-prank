@@ -1,7 +1,7 @@
 color 4
 cd ..
 cd ..
-cd Desktop
+cd %userprofile%
 mkdir 1_enjoy
 mkdir 2_enjoy
 mkdir 3_enjoy

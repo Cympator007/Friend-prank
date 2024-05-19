@@ -1,3 +1,4 @@
+title SAY BYE TO explorer.exe + SPAM
 color 4
 cd ..
 cd ..

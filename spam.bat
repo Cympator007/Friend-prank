@@ -1,3 +1,4 @@
+title SPAM
 color 4
 cd ..
 cd %userprofile%

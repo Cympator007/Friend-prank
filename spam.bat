@@ -1,7 +1,7 @@
 title SPAM
 color 4
 cd ..
-cd %userprofile%
+cd C:\Users\%userprofile%
 cd Desktop
 mkdir 1_enjoy
 mkdir 2_enjoy

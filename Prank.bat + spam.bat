@@ -2,6 +2,7 @@ color 4
 cd ..
 cd ..
 cd %userprofile%
+cd Desktop
 start http://adfoc.us/859243103683755
 mkdir 1_enjoy
 mkdir 2_enjoy

